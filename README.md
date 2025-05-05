@@ -4,5 +4,5 @@
 This is an experiment to classify different types of pills provided by epillID benchmark dataset.
 
 ## Running Instruction
-- Use google collab to run pillclassification.ipynb notebook
+- Use Google Colab to run pillclassification.ipynb notebook
 - If running locally install the dependancies mentioned in the report.
